@@ -1,4 +1,4 @@
-using USR.Blazor.Components;
+using RUS.Blazor.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
