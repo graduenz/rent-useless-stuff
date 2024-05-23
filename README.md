@@ -1,4 +1,4 @@
-# useless-stuff-rental
+# RUS: Rent Useless Stuff
 
 Simple project to play with Blazor.
 
